@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\Maxim\Documents\EuroScope\UAAA_test\UAAA-Development-Build_20251216133600-251201-0011.sct
+SECTORTITLE:UAAA-Development-Build_20251216133600-251201-0011.sct
 ARTCC high boundary:UAAA_A1A_CTR:
 ARTCC high boundary:UAAA_A3A_CTR:
 ARTCC high boundary:UAAA_A4A_CTR:
@@ -18,6 +18,87 @@ ARTCC low boundary:UASK_TWR:
 ARTCC low boundary:UASS_TWR:
 ARTCC low boundary:UASU_TWR:
 ARTCC low boundary:UASZ_TWR:
+Free Text:UAAA Almaty_ground\01:freetext
+Free Text:UAAA Almaty_ground\02:freetext
+Free Text:UAAA Almaty_ground\03:freetext
+Free Text:UAAA Almaty_ground\04:freetext
+Free Text:UAAA Almaty_ground\05:freetext
+Free Text:UAAA Almaty_ground\06:freetext
+Free Text:UAAA Almaty_ground\12:freetext
+Free Text:UAAA Almaty_ground\13:freetext
+Free Text:UAAA Almaty_ground\13A:freetext
+Free Text:UAAA Almaty_ground\13B:freetext
+Free Text:UAAA Almaty_ground\201:freetext
+Free Text:UAAA Almaty_ground\202:freetext
+Free Text:UAAA Almaty_ground\203:freetext
+Free Text:UAAA Almaty_ground\204:freetext
+Free Text:UAAA Almaty_ground\204L:freetext
+Free Text:UAAA Almaty_ground\204R:freetext
+Free Text:UAAA Almaty_ground\205:freetext
+Free Text:UAAA Almaty_ground\205L:freetext
+Free Text:UAAA Almaty_ground\205R:freetext
+Free Text:UAAA Almaty_ground\26:freetext
+Free Text:UAAA Almaty_ground\27:freetext
+Free Text:UAAA Almaty_ground\28:freetext
+Free Text:UAAA Almaty_ground\29:freetext
+Free Text:UAAA Almaty_ground\30:freetext
+Free Text:UAAA Almaty_ground\31:freetext
+Free Text:UAAA Almaty_ground\31A:freetext
+Free Text:UAAA Almaty_ground\32:freetext
+Free Text:UAAA Almaty_ground\32A:freetext
+Free Text:UAAA Almaty_ground\33:freetext
+Free Text:UAAA Almaty_ground\34:freetext
+Free Text:UAAA Almaty_ground\35:freetext
+Free Text:UAAA Almaty_ground\36:freetext
+Free Text:UAAA Almaty_ground\42:freetext
+Free Text:UAAA Almaty_ground\42A:freetext
+Free Text:UAAA Almaty_ground\43:freetext
+Free Text:UAAA Almaty_ground\43A:freetext
+Free Text:UAAA Almaty_ground\44:freetext
+Free Text:UAAA Almaty_ground\45:freetext
+Free Text:UAAA Almaty_ground\46:freetext
+Free Text:UAAA Almaty_ground\46A:freetext
+Free Text:UAAA Almaty_ground\47:freetext
+Free Text:UAAA Almaty_ground\48:freetext
+Free Text:UAAA Almaty_ground\49:freetext
+Free Text:UAAA Almaty_ground\50:freetext
+Free Text:UAAA Almaty_ground\51:freetext
+Free Text:UAAA Almaty_ground\52:freetext
+Free Text:UAAA Almaty_ground\53:freetext
+Free Text:UAAA Almaty_ground\54:freetext
+Free Text:UAAA Almaty_ground\55:freetext
+Free Text:UAAA Almaty_ground\56:freetext
+Free Text:UAAA Almaty_ground\57:freetext
+Free Text:UAAA Almaty_ground\58:freetext
+Free Text:UAAA Almaty_ground\59:freetext
+Free Text:UAAA Almaty_ground\59A:freetext
+Free Text:UAAA Almaty_ground\60:freetext
+Free Text:UAAA Almaty_ground\60A:freetext
+Free Text:UAAA Almaty_ground\61:freetext
+Free Text:UAAA Almaty_ground\62:freetext
+Free Text:UAAA Almaty_ground\63:freetext
+Free Text:UAAA Almaty_ground\64:freetext
+Free Text:UAAA Almaty_ground\65:freetext
+Free Text:UAAA Almaty_ground\66:freetext
+Free Text:UAAA Almaty_ground\67:freetext
+Free Text:UAAA Almaty_ground\68:freetext
+Free Text:UAAA Almaty_ground\69:freetext
+Free Text:UAAA Almaty_ground\71:freetext
+Free Text:UAAA Almaty_ground\72:freetext
+Free Text:UAAA Almaty_ground\73:freetext
+Free Text:UAAA Almaty_ground\79:freetext
+Free Text:UAAA Almaty_ground\A:freetext
+Free Text:UAAA Almaty_ground\B:freetext
+Free Text:UAAA Almaty_ground\C:freetext
+Free Text:UAAA Almaty_ground\D:freetext
+Free Text:UAAA Almaty_ground\E:freetext
+Free Text:UAAA Almaty_ground\F:freetext
+Free Text:UAAA Almaty_ground\H:freetext
+Free Text:UAAA Almaty_ground\K:freetext
+Free Text:UAAA Almaty_ground\L:freetext
+Geo:GEO:
+Geo:UAAA Groundlayout UAAA Marking:
+Regions:UAAA Ground Polygons:polygon
 Runways:UAAA 05L-23R:extended centerline 1
 Runways:UAAA 05L-23R:extended centerline 1 left base
 Runways:UAAA 05L-23R:extended centerline 1 left ticks
@@ -171,4 +252,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Galaxy CTR
-WINDOWAREA:40.522777:62.602462:53.856111:95.695315
+WINDOWAREA:42.668211:74.690806:44.457781:79.153070
