@@ -35,10 +35,11 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:34.00000
+DisplayRotation:36.50000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:46.881690:74.981498:46.898196:75.022655
 PLUGIN:Ground Radar plugin:AirportElevation:1447
 PLUGIN:Ground Radar plugin:AirportRadius:1.5	
 PLUGIN:Ground Radar plugin:GroundMode:UAAH
 PLUGIN:TopSky plugin:NoDraw:1
+
