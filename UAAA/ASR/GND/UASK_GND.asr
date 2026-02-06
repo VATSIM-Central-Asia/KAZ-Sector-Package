@@ -1,0 +1,42 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Maxim\Documents\EuroScope\UAAA-dev\UAAA-Development-Build_20260131213807-260101-0005.sct
+SECTORTITLE:UAAA-Development-Build_20260131213807-260101-0005.sct
+ARTCC low boundary:UAAA_R_APP:
+ARTCC low boundary:UAAA_TWR:
+ARTCC low boundary:UAAH_TWR:
+ARTCC low boundary:UAAL_TWR:
+ARTCC low boundary:UAAR_TWR:
+ARTCC low boundary:UAAT_TWR:
+ARTCC low boundary:UASK_TWR:
+ARTCC low boundary:UASS_TWR:
+ARTCC low boundary:UASU_TWR:
+ARTCC low boundary:UASZ_TWR:
+Airports:UAAA:name
+Airports:UAAH:name
+Airports:UAAL:name
+Airports:UAAR:name
+Airports:UAAT:name
+Airports:UASK:name
+Airports:UASS:name
+Airports:UASU:name
+Airports:UASZ:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:323.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:50.016808:82.459703:50.048433:82.538560
+PLUGIN:Ground Radar plugin:AirportElevation:942
+PLUGIN:Ground Radar plugin:AirportRadius:1.5	
+PLUGIN:Ground Radar plugin:GroundMode:UASK
+PLUGIN:TopSky plugin:NoDraw:1
