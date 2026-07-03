@@ -4,13 +4,13 @@ System_GUI_Scale_Menus=1.1
 
 Setup_COOPANS=1
 
-Airspace_P_Flag=UACN
+Airspace_P_Flag=UAII
 Airspace_ASSR_Type=0
 Airspace_ModeS_Code_VFR=0
 Airspace_ModeS_Code=1000
 Airspace_No_DUPE_Codes=7000
-Airspace_SIGMET_Areas=UACN
-Airspace_NOTAM_Add=UACN
+Airspace_SIGMET_Areas=UAII
+Airspace_NOTAM_Add=UAII
 
 AIW_FlightRules=0
 AIW_Floor=5000
@@ -159,9 +159,9 @@ HTTP_METAR_Page_Prefix=adds/dataserver_current/httpparam?dataSource=metars&reque
 HTTP_METAR_Page_Suffix=&hoursBeforeNow=1&mostRecentForEachStation=true&fields=raw_text
 HTTP_METAR_Data_Prefix=<raw_text>
 HTTP_METAR_Data_Suffix=</raw_text>
-HTTP_GRIB_Latitude_Max=56
-HTTP_GRIB_Latitude_Min=45
-HTTP_GRIB_Longitude_Max=80
+HTTP_GRIB_Latitude_Max=48
+HTTP_GRIB_Latitude_Min=41
+HTTP_GRIB_Longitude_Max=75
 HTTP_GRIB_Longitude_Min=60
 
 Label_AHDG_Point_Label=0
@@ -254,58 +254,38 @@ Window_COL_Warning_Threshold=12
 
 WXR_Brightness=40
 WXR_Gain=85
-WXR_Latitude=47
-WXR_Latitude_Max=55
-WXR_Latitude_Min=44
-WXR_Longitude=70
-WXR_Longitude_Max=80
+WXR_Latitude=44
+WXR_Latitude_Max=48
+WXR_Latitude_Min=41
+WXR_Longitude=67
+WXR_Longitude_Max=75
 WXR_Longitude_Min=60
 WXR_ImageSize=512
 WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=25
 
-[UACN_CTR]
-Setup_LoadView=UACN_CTR
-Setup_ScreenLat=UACC
+[UAII_CTR]
+Setup_LoadView=UAII_CTR
+Setup_ScreenLat=UAII
 CPDLC_Default=0
 
-[UACC_APP]
-Setup_LoadView=UACC_APP
-Setup_ScreenLat=UACC
+[UADD_APP]
+Setup_LoadView=UADD_APP
+Setup_ScreenLat=UADD
 CPDLC_Default=0
 
-[UACC_R_APP]
-Setup_LoadView=UACC_R_APP
-Setup_ScreenLat=UACC
+[UAII_TWR]
+Setup_LoadView=UAII_TWR
+Setup_ScreenLat=UAII
 CPDLC_Default=0
 
-[UAUU_TWR]
-Setup_LoadView=UAUU_TWR
-Setup_ScreenLat=UAUU
+[UAIT_TWR]
+Setup_LoadView=UAIT_TWR
+Setup_ScreenLat=UAIT
 CPDLC_Default=0
 
-[UACP_TWR]
-Setup_LoadView=UACP_TWR
-Setup_ScreenLat=UACP
-CPDLC_Default=0
-
-[UACK_TWR]
-Setup_LoadView=UACK_TWR
-Setup_ScreenLat=UACK
-CPDLC_Default=0
-
-[UASP_TWR]
-Setup_LoadView=UASP_TWR
-Setup_ScreenLat=UASP
-CPDLC_Default=0
-
-[UAKK_TWR]
-Setup_LoadView=UAKK_TWR
-Setup_ScreenLat=UAKK
-CPDLC_Default=0
-
-[UAKD_TWR]
-Setup_LoadView=UAKD_TWR
-Setup_ScreenLat=UAKD
+[UAOO_TWR]
+Setup_LoadView=UAOO_TWR
+Setup_ScreenLat=UAOO
 CPDLC_Default=0
