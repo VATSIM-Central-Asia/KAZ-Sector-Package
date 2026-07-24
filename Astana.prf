@@ -1,3 +1,4 @@
+Settings	alias	\UACN\Alias\alias.txt
 Settings	airlines	\UACN\ICAO\ICAO_Airlines.txt
 Settings	airports	\UACN\ICAO\ICAO_Airports.txt
 Settings	aircraft	\UACN\ICAO\ICAO_Aircraft.txt
@@ -8,7 +9,7 @@ Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	SettingsfileSYMBOLOGY	\UACN\Settings\UACN_Symbology.txt
 Settings	SettingsfileVOICE	\UACN\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\UACN\Settings\UACN_Profile.txt
+Settings	SettingsfilePROFILE	\UACN\Settings\UACN_Profiles.txt
 Settings	SettingsfileTAGS	\UACN\Settings\UACN_Tags.txt
 Settings	SettingsfileSIL	\UACN\Settings\UACN_Lists.txt
 Settings	SettingsfileSEL	\UACN\Settings\UACN_Lists.txt
@@ -19,7 +20,7 @@ Settings	SettingsfilePLUGINS	\UACN\Settings\UACN_Plugins.txt
 Settings	Settingsfile	\UACN\Settings\UACN_Settings.txt
 Settings	SettingsfileSCREEN	\UACN\Settings\UACN_Settings.txt
 Settings	SettingsfileCONFLICT	\UACN\Settings\UACN_Settings.txt
-Settings	SettingsfileVCCS	\UACN\Settings\UACN_VCCS.txt
+Settings	SettingsfileVCCS	\UACN\Settings\UACN_VCCS_Profile.txt
 Settings	SettingsfileFP	\UACN\Settings\UACN_Lists.txt
 Settings	SettingsfileORIGPLANE	\UACN\Settings\UACN_Settings.txt
 Settings	SettingsfileSTUP	\UACN\Settings\UACN_Settings.txt
@@ -54,37 +55,36 @@ TeamSpeakVccs	Ts3DialogRight	1830
 TeamSpeakVccs	Ts3DialogBottom	610
 TeamSpeakVccs	Ts3G2APtt	3670016
 TeamSpeakVccs	Ts3G2GPtt	3670016
-Plugins	Plugin0	\UACN\Plugins\Ground-Radar-Plugin\GRplugin.dll
-Plugins	Plugin0Display0	Ground Radar display
-LastSession	atis_freq4	118000
-Plugins	Plugin1	\UACN\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin1Display1	Ground Radar display
-Settings	SettingsfileSIL	\UACN\Settings\InboundList.txt
 TeamSpeakVccs	Ts3NickName	Your CID
-RecentFiles	Recent1	\UACN\ASR\ACC\Astana.asr
-RecentFiles	Recent2	\UACN\ASR\GND\UACC_GND.asr
-RecentFiles	Recent3	\UACN\ASR\GND\UAUU_GND.asr
-RecentFiles	Recent4	\UACN\ASR\GND\UAKK_GND.asr
-RecentFiles	Recent5	\UACN\ASR\GND\UAKD_GND.asr
-RecentFiles	Recent6	\UACN\ASR\GND\UACP_GND.asr
-RecentFiles	Recent7	\UACN\ASR\GND\UASP_GND.asr
-RecentFiles	Recent8	\UACN\ASR\GND\UACK_GND.asr
-Plugins	Plugin0Display1	Standard ES radar screen
-LastSession	atis_freq0	129500
-LastSession	atis_url0	https://vatis.ru/P-FBABDD45?arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
-LastSession	atis_callsign0	UACC_ATIS
-LastSession	atis_letter0	65
-LastSession	atis_url1	https://vatis.ru/P-FBABDD45?arrp=$atisairportB&arr=$arrrwy($atisairportB)&dep=$deprwy($atisairportB)&info=$atiscodeB
-LastSession	atis_callsign1	UAKK_ATIS
-LastSession	atis_freq1	135800
-LastSession	atis_url2	https://vatis.ru/P-FBABDD45?arrp=$atisairportC&arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&info=$atiscodeC
-LastSession	atis_callsign2	UAUU_ATIS
-LastSession	atis_freq2	118500
+Plugins	Plugin0	\UACN\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin1	\UACN\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\UACN\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\UACN\Plugins\Timer\ESTimers.dll
+Plugins	Plugin4	\UACN\Plugins\VCH\VCH.dll
+Plugins	Plugin5	\UACN\Plugins\VFPC\VFPC.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
-Plugins	Plugin4	\UACN\Plugins\VCH\VCH.dll
 Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	SMR radar display
+RecentFiles	Recent1	\UACN\ASR\ACC\Astana.asr
+RecentFiles	Recent2	\UACN\ASR\ACC\Astana Towers.asr
+RecentFiles	Recent3	\UACN\ASR\GND\UACC_GND.asr
+RecentFiles	Recent4	\UACN\ASR\GND\UAUU_GND.asr
+RecentFiles	Recent5	\UACN\ASR\GND\UACP_GND.asr
+RecentFiles	Recent6	\UACN\ASR\GND\UASP_GND.asr
+RecentFiles	Recent7	\UACN\ASR\GND\UAKK_GND.asr
+RecentFiles	Recent8	\UACN\ASR\GND\UAKD_GND.asr
+RecentFiles	Recent9	\UACN\ASR\GND\UACK_GND.asr
