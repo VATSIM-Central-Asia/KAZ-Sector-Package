@@ -3,24 +3,15 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Airports:UACC:name
 Airports:UACC:symbol
-Airports:UACK:name
 Airports:UACK:symbol
-Airports:UACP:name
 Airports:UACP:symbol
-Airports:UAKB:name
 Airports:UAKB:symbol
-Airports:UAKD:name
 Airports:UAKD:symbol
-Airports:UAKK:name
 Airports:UAKK:symbol
-Airports:UASP:name
 Airports:UASP:symbol
-Airports:UAUR:name
-Airports:UAUR:symbol
-Airports:UAUU:name
 Airports:UAUU:symbol
+Airports:UAUR:symbol
 ARTCC boundary:UACN_A1C_CTR:
 ARTCC boundary:UACN_A2C_CTR:
 ARTCC boundary:UACN_A3C_CTR:
@@ -30,11 +21,14 @@ ARTCC low boundary:UACC_R_APP:
 ARTCC low boundary:UACC_TWR:
 ARTCC low boundary:UACK_TWR:
 ARTCC low boundary:UACP_TWR:
+ARTCC low boundary:UAKB ATZ:
 ARTCC low boundary:UAKD_TWR:
 ARTCC low boundary:UAKK_TWR:
 ARTCC low boundary:UASP_TWR:
 ARTCC low boundary:UAUR_TWR:
 ARTCC low boundary:UAUU_TWR:
+ARTCC low boundary:ZF0C ATZ:
+Runways:UACC 04-22:centerline
 Runways:UACC 04-22:extended centerline 1
 Runways:UACC 04-22:extended centerline 1 left base
 Runways:UACC 04-22:extended centerline 1 left ticks
@@ -50,6 +44,7 @@ Runways:UACC 04-22:extended centerline 2 right base
 Runways:UACC 04-22:extended centerline 2 right ticks
 Runways:UACC 04-22:extended centerline 2 right vectoring
 Runways:UACK 02-20:extended centerline 1
+Runways:UACK 02-20:centerline
 Runways:UACK 02-20:extended centerline 1 left base
 Runways:UACK 02-20:extended centerline 1 left ticks
 Runways:UACK 02-20:extended centerline 1 left vectoring
@@ -77,6 +72,7 @@ Runways:UACP 05-23:extended centerline 2 left vectoring
 Runways:UACP 05-23:extended centerline 2 right base
 Runways:UACP 05-23:extended centerline 2 right ticks
 Runways:UACP 05-23:extended centerline 2 right vectoring
+Runways:UAKB 08-26:centerline
 Runways:UAKB 08-26:extended centerline 1
 Runways:UAKB 08-26:extended centerline 1 left base
 Runways:UAKB 08-26:extended centerline 1 left ticks
@@ -91,6 +87,22 @@ Runways:UAKB 08-26:extended centerline 2 left vectoring
 Runways:UAKB 08-26:extended centerline 2 right base
 Runways:UAKB 08-26:extended centerline 2 right ticks
 Runways:UAKB 08-26:extended centerline 2 right vectoring
+Runways:UAKB 08R-26L:centerline
+Runways:UAKB 08R-26L:extended centerline 1
+Runways:UAKB 08R-26L:extended centerline 1 left base
+Runways:UAKB 08R-26L:extended centerline 1 left ticks
+Runways:UAKB 08R-26L:extended centerline 1 left vectoring
+Runways:UAKB 08R-26L:extended centerline 1 right base
+Runways:UAKB 08R-26L:extended centerline 1 right ticks
+Runways:UAKB 08R-26L:extended centerline 1 right vectoring
+Runways:UAKB 08R-26L:extended centerline 2
+Runways:UAKB 08R-26L:extended centerline 2 left base
+Runways:UAKB 08R-26L:extended centerline 2 left ticks
+Runways:UAKB 08R-26L:extended centerline 2 left vectoring
+Runways:UAKB 08R-26L:extended centerline 2 right base
+Runways:UAKB 08R-26L:extended centerline 2 right ticks
+Runways:UAKB 08R-26L:extended centerline 2 right vectoring
+Runways:UAKD 04-22:centerline
 Runways:UAKD 04-22:extended centerline 1
 Runways:UAKD 04-22:extended centerline 1 left base
 Runways:UAKD 04-22:extended centerline 1 left ticks
@@ -105,6 +117,7 @@ Runways:UAKD 04-22:extended centerline 2 left vectoring
 Runways:UAKD 04-22:extended centerline 2 right base
 Runways:UAKD 04-22:extended centerline 2 right ticks
 Runways:UAKD 04-22:extended centerline 2 right vectoring
+Runways:UAKK 05-23:centerline
 Runways:UAKK 05-23:extended centerline 1
 Runways:UAKK 05-23:extended centerline 1 left base
 Runways:UAKK 05-23:extended centerline 1 left ticks
@@ -119,6 +132,7 @@ Runways:UAKK 05-23:extended centerline 2 left vectoring
 Runways:UAKK 05-23:extended centerline 2 right base
 Runways:UAKK 05-23:extended centerline 2 right ticks
 Runways:UAKK 05-23:extended centerline 2 right vectoring
+Runways:UASP 03-21:centerline
 Runways:UASP 03-21:extended centerline 1
 Runways:UASP 03-21:extended centerline 1 left base
 Runways:UASP 03-21:extended centerline 1 left ticks
@@ -148,6 +162,7 @@ Runways:UAUR 08-26:extended centerline 2 left vectoring
 Runways:UAUR 08-26:extended centerline 2 right base
 Runways:UAUR 08-26:extended centerline 2 right ticks
 Runways:UAUR 08-26:extended centerline 2 right vectoring
+Runways:UAUU 14-32:centerline
 Runways:UAUU 14-32:extended centerline 1
 Runways:UAUU 14-32:extended centerline 1 left base
 Runways:UAUU 14-32:extended centerline 1 left ticks
