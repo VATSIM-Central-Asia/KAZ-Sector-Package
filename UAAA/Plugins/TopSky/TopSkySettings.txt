@@ -143,9 +143,6 @@ FlightLeg_Label_SCFL=1
 FlightLeg_LineWidth=0
 FlightLeg_Use_Ack_Color=0
 
-HTTP_NOTAM_Server=https://www.notams.faa.gov/
-HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
-
 HTTP_SIGMET_Server=https://aviationweather.gov/
 
 HTTP_TAF_Server=https://aviationweather.gov/
@@ -159,10 +156,10 @@ HTTP_METAR_Page_Prefix=adds/dataserver_current/httpparam?dataSource=metars&reque
 HTTP_METAR_Page_Suffix=&hoursBeforeNow=1&mostRecentForEachStation=true&fields=raw_text
 HTTP_METAR_Data_Prefix=<raw_text>
 HTTP_METAR_Data_Suffix=</raw_text>
-HTTP_GRIB_Latitude_Max=56
-HTTP_GRIB_Latitude_Min=45
-HTTP_GRIB_Longitude_Max=80
-HTTP_GRIB_Longitude_Min=60
+HTTP_GRIB_Latitude_Max=52
+HTTP_GRIB_Latitude_Min=41
+HTTP_GRIB_Longitude_Max=88
+HTTP_GRIB_Longitude_Min=71
 
 Label_AHDG_Point_Label=0
 Label_AHDG_HideDctIfCOPX=0
@@ -254,12 +251,12 @@ Window_COL_Warning_Threshold=12
 
 WXR_Brightness=40
 WXR_Gain=85
-WXR_Latitude=47
-WXR_Latitude_Max=55
-WXR_Latitude_Min=44
-WXR_Longitude=70
-WXR_Longitude_Max=80
-WXR_Longitude_Min=60
+WXR_Latitude=46.4
+WXR_Latitude_Max=51.3
+WXR_Latitude_Min=42.1
+WXR_Longitude=79.3
+WXR_Longitude_Max=87.3
+WXR_Longitude_Min=71.8
 WXR_ImageSize=512
 WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30

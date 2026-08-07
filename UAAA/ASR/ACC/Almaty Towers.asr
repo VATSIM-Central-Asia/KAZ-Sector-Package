@@ -4,15 +4,25 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Airports:UAAA:symbol
+Airports:UAAA:name
 Airports:UAAH:symbol
+Airports:UAAH:name
 Airports:UAAL:symbol
+Airports:UAAL:name
 Airports:UAAR:symbol
+Airports:UAAR:name
 Airports:UAAT:symbol
+Airports:UAAT:name
 Airports:UASI:symbol
+Airports:UASI:name
 Airports:UASK:symbol
+Airports:UASK:name
 Airports:UASS:symbol
+Airports:UASS:name
 Airports:UASU:symbol
+Airports:UASU:name
 Airports:UASZ:symbol
+Airports:UASZ:name
 ARTCC high boundary:UAAA_A1A_CTR:
 ARTCC high boundary:UAAA_A3A_CTR:
 ARTCC high boundary:UAAA_A4A_CTR:
@@ -209,4 +219,4 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Galaxy CTR
 WINDOWAREA:41.462860:60.631739:52.129528:96.210117
-PLUGIN:TopSky plugin:ShowMapData:Almaty
+PLUGIN:TopSky plugin:ShowMapData:ALL_TOWER_SHOW
