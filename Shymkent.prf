@@ -1,0 +1,71 @@
+Settings	alias	\UAII\Alias\alias.txt
+Settings	airlines	\UAII\ICAO\ICAO_Airlines.txt
+Settings	airports	\UAII\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UAII\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\UAII\NavData\icao.txt
+Settings	airways	\UAII\NavData\airway.txt
+Settings	isec	\UAII\NavData\isec.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSYMBOLOGY	\UAII\Settings\UAII_Symbology.txt
+Settings	SettingsfileVOICE	\UAII\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\UAII\Settings\UAII_Profiles.txt
+Settings	SettingsfileTAGS	\UAII\Settings\UAII_Tags.txt
+Settings	SettingsfileSIL	\UAII\Settings\UAII_Lists.txt
+Settings	SettingsfileSEL	\UAII\Settings\UAII_Lists.txt
+Settings	SettingsfileDEP	\UAII\Settings\UAII_DepartureList.txt
+Settings	SettingsfileARR	\UAII\Settings\UAII_Lists.txt
+Settings	SettingsfileFP	\UAII\Settings\UAII_Lists.txt
+Settings	SettingsfilePLUGINS	\UAII\Settings\UAII_Plugins.txt
+Settings	Settingsfile	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileSCREEN	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileCONFLICT	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileVCCS	\UAII\Settings\UAII_VCCS_Profile.txt
+Settings	SettingsfileFP	\UAII\Settings\UAII_Lists.txt
+Settings	SettingsfileORIGPLANE	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileSTUP	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileTAXIOUT	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileTAKEOFF	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileADCS	\UAII\Settings\UAII_Settings.txt
+Settings	SettingsfileTAXIIN	\UAII\Settings\UAII_Settings.txt
+Sounds	Sound0	\UAII\Sounds\handoff_request.wav
+Sounds	Sound1	\UAII\Sounds\handoff_accept.wav
+Sounds	Sound2	\UAII\Sounds\conflict_alert.wav
+Sounds	Sound3	\UAII\Sounds\radio_message.wav
+Sounds	Sound4	\UAII\Sounds\private_message.wav
+Sounds	Sound5	\UAII\Sounds\atc_message.wav
+Sounds	Sound6	\UAII\Sounds\broadcast_message.wav
+Sounds	Sound7	\UAII\Sounds\landline_request.wav
+Sounds	Sound8	\UAII\Sounds\supervisor_message.wav
+Sounds	Sound9	\UAII\Sounds\connected.wav
+Sounds	Sound10	\UAII\Sounds\disconnected.wav
+Sounds	Sound11	\UAII\Sounds\ongoing_request.wav
+Sounds	Sound12	\UAII\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UAII\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UAII\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UAII\Sounds\new_atis.wav
+Sounds	Sound16	\UAII\Sounds\handoff_refused.wav
+Sounds	Sound17	\UAII\Sounds\pointout.wav
+Sounds	Sound18	\UAII\Sounds\startup_silent.wav
+Plugins	Plugin0	\UAII\Plugins\Ground-Radar-Plugin\GRplugin.dll
+Plugins	Plugin1	\UAII\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\UAII\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\UAII\Plugins\Timer\ESTimers.dll
+Plugins	Plugin4	\UAII\Plugins\VCH\VCH.dll
+Plugins	Plugin5	\UAII\Plugins\VFPC\VFPC.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+RecentFiles	Recent1	\UAII\ASR\ACC\Shymkent.asr
+RecentFiles	Recent2	\UAII\ASR\ACC\Shymkent Towers.asr
+RecentFiles	Recent3	\UAII\ASR\GND\UAII_GND.asr
+RecentFiles	Recent4	\UAII\ASR\GND\UADD_GND.asr
+RecentFiles	Recent5	\UAII\ASR\GND\UAIT_GND.asr
+RecentFiles	Recent6	\UAII\ASR\GND\UAOO_GND.asr
