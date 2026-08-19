@@ -57,9 +57,9 @@ TeamSpeakVccs	Ts3G2APtt	3670016
 TeamSpeakVccs	Ts3G2GPtt	3670016
 TeamSpeakVccs	Ts3NickName	Your CID
 RecentFiles	Recent1	\UAAA\ASR\ACC\Almaty.asr
-RecentFiles	Recent2	\UAAA\ASR\GND\UAAA_GND.asr
-RecentFiles	Recent3	\UAAA\ASR\GND\UAAH_GND.asr
-RecentFiles	Recent4	\UAAA\ASR\GND\UAAL_GND.asr
+RecentFiles	Recent2	\UAAA\ASR\ACC\Almaty Towers.asr
+RecentFiles	Recent3	\UAAA\ASR\GND\UAAA_GND.asr
+RecentFiles	Recent4	\UAAA\ASR\GND\UAAH_GND.asr
 RecentFiles	Recent5	\UAAA\ASR\GND\UASK_GND.asr
 RecentFiles	Recent6	\UAAA\ASR\GND\UASS_GND.asr
 Plugins	Plugin0	\UAAA\Plugins\Ground-Radar-Plugin\GRplugin.dll
@@ -78,4 +78,3 @@ Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	Standard ES radar screen
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
-Settings	sector	\UAAA-Development-Build_20260731174911-260701-0003.sct
