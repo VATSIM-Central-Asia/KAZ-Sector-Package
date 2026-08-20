@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Central Asia\Kazakhstan\Shymkent\UAII-Development-Build_20260119145629-251301-0003.sct
-SECTORTITLE:UAII-Development-Build_20260119145629-251301-0003.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC high boundary:UAII_A1I_CTR:
 ARTCC high boundary:UAII_A2I_CTR:
 ARTCC low boundary:UADD_APP:
